@@ -5,7 +5,7 @@ This project is a Spring Boot application that consumes APIs from JSONPlaceholde
 ## Features
 
 * REST API consumption from JSONPlaceholder
-* Demonstrates the use of WebClient for API calls
+* Demonstrates the use of RestClient for API calls
 * Simple controller to expose consumed data via endpoints
 * posts.http file for testing API endpoints
 
