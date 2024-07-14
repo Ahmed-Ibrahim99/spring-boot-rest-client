@@ -23,7 +23,7 @@ To get started with this project, you will need to have the following installed 
 
 To build and run the project, follow these steps:
 
-* Clone the repository: `git clone https://github.com/Ahmed-Ibrahim99/spring-boot-3-jwt-security.git`
+* Clone the repository: `git clone https://github.com/Ahmed-Ibrahim99/spring-boot-rest-client.git`
 * Navigate to the project directory: cd Spring Boot Rest Client
 * Build the project: mvn clean install
 * Run the project: mvn spring-boot:run
