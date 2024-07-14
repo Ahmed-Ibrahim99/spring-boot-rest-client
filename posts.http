@@ -1,0 +1,29 @@
+### List Posts
+GET http://localhost:9090/api/posts
+
+### Get Post by ID
+GET http://localhost:9090/api/posts/1
+
+### Create new Post
+POST http://localhost:9090/api/posts
+Content-Type: application/json
+
+{
+  "title": "Ahmed's Test Title",
+  "body": "Ahmed's Test Body",
+  "userId": 1
+}
+
+### Update Post
+PUT http://localhost:9090/api/posts/1
+Content-Type: application/json
+
+{
+  "id": 1,
+  "title": "UPDATED TITLE",
+  "body": "UPDATED BODY",
+  "userId": 1
+}
+
+### Delete Post
+DELETE http://localhost:9090/api/posts/1
