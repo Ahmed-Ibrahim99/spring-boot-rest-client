@@ -1,6 +1,6 @@
 # Spring Boot REST Client Project
 
-This project is a Spring Boot application that consumes APIs from JSONPlaceholder. The application is built using Spring Boot version 4 and Java 17 and listens on port 9090.
+This project is a Spring Boot application that consumes APIs from JSONPlaceholder. The application is built using Spring Boot version 3.3 and Java 17 and listens on port 9090.
 
 ## Features
 
@@ -13,7 +13,7 @@ This project is a Spring Boot application that consumes APIs from JSONPlaceholde
 
 * Java 17
 * Maven 3.x
-* Spring Boot 4.x
+* Spring Boot 3.3.x
 
 ## Getting Started
 To get started with this project, you will need to have the following installed on your local machine:
